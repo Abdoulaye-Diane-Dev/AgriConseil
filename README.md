@@ -83,9 +83,9 @@ Activer le **mode avion** sur l'appareil/émulateur avant de parcourir les écra
 | Membre | Rôle |
 |---|---|
 | Abdoulaye Diane | Chef de projet & intégration |
-| Adama Mara | Données |
-| Jonas Vonè Dopavogui | Interface |
-| Momo Sylla | Logique & qualité |
+| Adama Mara |Interface |
+| Jonas Vonè Dopavogui | Logique & qualité |
+| Momo Sylla | Données |
 
 ---
 
